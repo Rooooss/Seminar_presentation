@@ -1,4 +1,4 @@
-# Seminar_presentation
+# Study_presentation
 
 ## AILAB 스터디에서 진행한 발표. Season 별 발표 모음.
 
