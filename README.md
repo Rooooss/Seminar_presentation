@@ -1,6 +1,6 @@
 # Seminar_presentation
 
-## AILAB에서 진행한 세미나. Season 별 발표 모음.
+## AILAB 스터디에서 진행한 발표. Season 별 발표 모음.
 
 ### S1. Attention Mechanism
 * Attention mechanism에 대한 개념, Global & local attention, application 등.
